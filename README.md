@@ -1,0 +1,1 @@
+Collection of **Java Script** files that solve 5 kata assigned from Codewars.
